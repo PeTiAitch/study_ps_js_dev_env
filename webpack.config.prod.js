@@ -25,7 +25,7 @@ export default {
       template: "src/index.html",
       // Properties you define here are available in index.html
       // using htmlWebpackPlugin.options.varName
-      // trackJSToken: "INSERT YOUR TOKEN HERE",
+      trackJSToken: "INSERT YOUR TOKEN HERE",
     }),
   ],
   module: {
